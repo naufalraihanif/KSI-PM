@@ -1,0 +1,1691 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "UEi1AHIJ7w1SYdNToCtAEQ7DuWNDRRXC",
+      "type": "Feature",
+      "properties": {
+        "id": "UEi1AHIJ7w1SYdNToCtAEQ7DuWNDRRXC",
+        "nama": "Gerbang Depan POLINELA",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23324295699166, -5.359106280720724],
+            [105.23349218915632, -5.359165099738448],
+            [105.23347926600769, -5.359220242560895],
+            [105.23323003384309, -5.35916142355002],
+            [105.23324295699166, -5.359106280720724]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "PKLtuRCrx6lmrQQU3LuiM0JH0QQHu5ez",
+      "type": "Feature",
+      "properties": {
+        "id": "PKLtuRCrx6lmrQQU3LuiM0JH0QQHu5ez",
+        "nama": "Gerbang Belakang POLINELA",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22719619488083, -5.350741952435044],
+            [105.2272476909456, -5.350711873053541],
+            [105.22726176653674, -5.350733407156497],
+            [105.22720958385798, -5.350764511969885],
+            [105.22719619488083, -5.350741952435044]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "tnnL6tGBPPsQTXTRfK3VjcpxNQ3YjMOa",
+      "type": "Feature",
+      "properties": {
+        "id": "tnnL6tGBPPsQTXTRfK3VjcpxNQ3YjMOa",
+        "nama": "Gerbang Samping POLINELA",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23625786286317, -5.358206952841229],
+            [105.23627817546668, -5.358212840363507],
+            [105.23625197382694, -5.358290670890227],
+            [105.23623144230453, -5.358284589628354],
+            [105.23625786286317, -5.358206952841229]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "6hI3gAQeHIr0xGZogomIOM4MVo9Ltg6m",
+      "type": "Feature",
+      "properties": {
+        "id": "6hI3gAQeHIr0xGZogomIOM4MVo9Ltg6m",
+        "nama": "Pos Satpam",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23619710733345, -5.358264219266047],
+            [105.23622620956587, -5.3582721576387655],
+            [105.23621783769028, -5.358301926537635],
+            [105.23618833679734, -5.358292797408467],
+            [105.23619710733345, -5.358264219266047]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "otpXHFFypbUwcUzzKZHZ1Rcgh08ekfKS",
+      "type": "Feature",
+      "properties": {
+        "id": "otpXHFFypbUwcUzzKZHZ1Rcgh08ekfKS",
+        "nama": "Gedung Serba Guna (GSG)",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23197097437452, -5.356907844098544],
+            [105.23196856327905, -5.357024871574922],
+            [105.23213251769693, -5.357161703672546],
+            [105.23223800307755, -5.357061480165484],
+            [105.23242365734416, -5.357059079602195],
+            [105.23241762960862, -5.356877236909298],
+            [105.23223679752891, -5.356868834934787],
+            [105.23213251769693, -5.356774012650291],
+            [105.23197097437452, -5.356907844098544]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "CtplSvOpo3dMVJrbQhTwrFNgOPP8kqz3",
+      "type": "Feature",
+      "properties": {
+        "id": "CtplSvOpo3dMVJrbQhTwrFNgOPP8kqz3",
+        "nama": "Perpustakaan",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23249094008617, -5.358517789390433],
+            [105.23255571137366, -5.358590338640312],
+            [105.2324812243935, -5.3586591260689715],
+            [105.23257460299851, -5.358763382001655],
+            [105.23265664662932, -5.358694057182333],
+            [105.23269335035803, -5.358736511917073],
+            [105.23281263747805, -5.35863655519492],
+            [105.23262426098643, -5.35840869679825],
+            [105.23249094008617, -5.358517789390433]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "0Qd3dDMWCQvyrFEGkOgTNzePWaDauVzo",
+      "type": "Feature",
+      "properties": {
+        "id": "0Qd3dDMWCQvyrFEGkOgTNzePWaDauVzo",
+        "nama": "Gedung KI. Hajar Dewantara (KHD)",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23378243542982, -5.358287302101118],
+            [105.23376413614625, -5.358409497049365],
+            [105.2336866817513, -5.35841160021117],
+            [105.23365992477727, -5.3585146551154],
+            [105.2339081989262, -5.358539456240749],
+            [105.23394590388472, -5.358298332728495],
+            [105.23378243542982, -5.358287302101118]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "aIuYeFbTBeq25R9fbK6ddB59TOc0dZdW",
+      "type": "Feature",
+      "properties": {
+        "id": "aIuYeFbTBeq25R9fbK6ddB59TOc0dZdW",
+        "nama": "Gedung Seroja",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23147370709552, -5.355804442244235],
+            [105.23173239628653, -5.3555820041760995],
+            [105.23188693787984, -5.355765975510977],
+            [105.23181470648234, -5.355830365467227],
+            [105.23185334188071, -5.355872177123089],
+            [105.23179034938329, -5.355933222136073],
+            [105.23174247508479, -5.355880539453352],
+            [105.2316290885995, -5.355982559881639],
+            [105.23147370709552, -5.355804442244235]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "c35uRKu4l0cX5eldbjsZY9JYZPiSeB34",
+      "type": "Feature",
+      "properties": {
+        "id": "c35uRKu4l0cX5eldbjsZY9JYZPiSeB34",
+        "nama": "Gedung Analisis",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23190900147921, -5.355780280912782],
+            [105.23202238044036, -5.355675305989365],
+            [105.23233507528357, -5.356012519890896],
+            [105.23221519689179, -5.356126841832392],
+            [105.23190900147921, -5.355780280912782]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "xpp3UVYt8osGBGB1ZLtsbPcHXmVIOfD8",
+      "type": "Feature",
+      "properties": {
+        "id": "xpp3UVYt8osGBGB1ZLtsbPcHXmVIOfD8",
+        "nama": "Gedung Sakura",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23219485053528, -5.356278079841573],
+            [105.23222293077731, -5.356424553486804],
+            [105.23257332335282, -5.356357698300329],
+            [105.23254890575146, -5.356210616864743],
+            [105.23219485053528, -5.356278079841573]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "Wxfy7oHvOcJOGlX9s4SmeDyDWHhfYU9C",
+      "type": "Feature",
+      "properties": {
+        "id": "Wxfy7oHvOcJOGlX9s4SmeDyDWHhfYU9C",
+        "nama": "Gedung H",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23269319784941, -5.356432582676618],
+            [105.23285233231547, -5.3564332975658715],
+            [105.23283892927805, -5.357003775075654],
+            [105.23267139131127, -5.356998214869023],
+            [105.23267809282908, -5.35674578141446],
+            [105.23262224684078, -5.356744669372134],
+            [105.23262671451994, -5.356601215952608],
+            [105.23268926202786, -5.356603440036935],
+            [105.23269319784941, -5.356432582676618]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "BP2NX8VFKOb4q7ZYCrZb1D3aRkvkoOJ2",
+      "type": "Feature",
+      "properties": {
+        "id": "BP2NX8VFKOb4q7ZYCrZb1D3aRkvkoOJ2",
+        "nama": "Masjid Albana Lama",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2328233380482, -5.35731407440241],
+            [105.23301525934676, -5.357347438091324],
+            [105.23299596567108, -5.357471793642844],
+            [105.2328588790291, -5.3575819948827785],
+            [105.23277358067321, -5.3573059862347066],
+            [105.2328233380482, -5.35731407440241]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "RUYQvWB61wKqN1YDknB73F34qyw0TzAT",
+      "type": "Feature",
+      "properties": {
+        "id": "RUYQvWB61wKqN1YDknB73F34qyw0TzAT",
+        "nama": "Garasi Bus 1",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23266168085928, -5.357586872858491],
+            [105.23266168085928, -5.357684762074555],
+            [105.23271524256091, -5.3576862231070095],
+            [105.23271671000441, -5.357586872858491],
+            [105.23266168085928, -5.357586872858491]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5nMNTPBB8XhQrMxFvpftdeikOt7OV7OM",
+      "type": "Feature",
+      "properties": {
+        "id": "5nMNTPBB8XhQrMxFvpftdeikOt7OV7OM",
+        "nama": "Rumah Mesin Generator",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2325707257229, -5.357578180820568],
+            [105.23264438179291, -5.357577632526443],
+            [105.23264688288378, -5.35769799044283],
+            [105.23257185017297, -5.35769799044283],
+            [105.2325707257229, -5.357578180820568]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "F3RV5mQDBgZnESsZesAFoDRFGsjyeH1m",
+      "type": "Feature",
+      "properties": {
+        "id": "F3RV5mQDBgZnESsZesAFoDRFGsjyeH1m",
+        "nama": "Garasi Bus 2",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23298686993377, -5.357195753583511],
+            [105.2329701871198, -5.357298181557709],
+            [105.23309808869254, -5.357319405368699],
+            [105.23311291785973, -5.357217900173723],
+            [105.23298686993377, -5.357195753583511]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "g0i7DgdKfZswqw8S6cndbLkVHYTvtceP",
+      "type": "Feature",
+      "properties": {
+        "id": "g0i7DgdKfZswqw8S6cndbLkVHYTvtceP",
+        "nama": "Pusat Perakitan Galur Tanaman",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23065150321736, -5.356829662203708],
+            [105.23065529010034, -5.357002512076932],
+            [105.23074136933951, -5.357003232272277],
+            [105.23073919927538, -5.356828224728616],
+            [105.23065150321736, -5.356829662203708]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "8Dg25Ex7mFRNI9gYnU8OJ3NdcMLQw6bt",
+      "type": "Feature",
+      "properties": {
+        "id": "8Dg25Ex7mFRNI9gYnU8OJ3NdcMLQw6bt",
+        "nama": "Laboratorium Tanaman 3",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23074744462116, -5.356828489326048],
+            [105.2307485478899, -5.35692052111753],
+            [105.23078431814861, -5.356921104953912],
+            [105.2307831453536, -5.3568282749375555],
+            [105.23074744462116, -5.356828489326048]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "JZlNLOoS66AjYGNen9942mQfS5n3UGOd",
+      "type": "Feature",
+      "properties": {
+        "id": "JZlNLOoS66AjYGNen9942mQfS5n3UGOd",
+        "nama": "Laboratorium TTA Mekanisasi Pertanian",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23101853113548, -5.357932764585414],
+            [105.23115163511545, -5.357932764585414],
+            [105.23115163511545, -5.358007071795043],
+            [105.23101853113548, -5.358006125206771],
+            [105.23101853113548, -5.357932764585414]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "CDizyeKYujxcN63AizBvYzej7v0ZNaB7",
+      "type": "Feature",
+      "properties": {
+        "id": "CDizyeKYujxcN63AizBvYzej7v0ZNaB7",
+        "nama": "Kandang Ayam Petelur 2",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22893329979632, -5.352119532106414],
+            [105.22901438889983, -5.352102466048976],
+            [105.2290379340107, -5.35225196834088],
+            [105.22895592623695, -5.352266548738555],
+            [105.22893329979632, -5.352119532106414]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "VAHU6W0ruwqltd47DnRk4WQBs4PUdM6F",
+      "type": "Feature",
+      "properties": {
+        "id": "VAHU6W0ruwqltd47DnRk4WQBs4PUdM6F",
+        "nama": "Kandang Ayam Petelur 2",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22897664110934, -5.352300367693829],
+            [105.22907874313552, -5.352279106128094],
+            [105.22911744847869, -5.352471789037978],
+            [105.22901134245075, -5.352488399630559],
+            [105.22897664110934, -5.352300367693829]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "fQBLEcXMxfrseOoaAKyAVZJAwgSa1dBn",
+      "type": "Feature",
+      "properties": {
+        "id": "fQBLEcXMxfrseOoaAKyAVZJAwgSa1dBn",
+        "nama": "Teknologi Pakan Ternak",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22886711113756, -5.352328404567359],
+            [105.22895163784995, -5.352316503411842],
+            [105.2289872283244, -5.352493902470357],
+            [105.22889559841587, -5.3525096318443275],
+            [105.22886711113756, -5.352328404567359]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "oqKHTdJ47dbvcCfkm5d9ywHVBjNGqYWr",
+      "type": "Feature",
+      "properties": {
+        "id": "oqKHTdJ47dbvcCfkm5d9ywHVBjNGqYWr",
+        "nama": "Stasiun Meteorologi Pertanian Khusus",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22855402687077, -5.3525432514093865],
+            [105.22874605333612, -5.3525636930166485],
+            [105.22872793763224, -5.352732035632783],
+            [105.22853470345359, -5.352712796478755],
+            [105.22855402687077, -5.3525432514093865]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "oaXuqziiMAstHeOU1NS8Ds1pSja0XOWI",
+      "type": "Feature",
+      "properties": {
+        "id": "oaXuqziiMAstHeOU1NS8Ds1pSja0XOWI",
+        "nama": "Sunce Polinela",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2313356541519, -5.35767984148238],
+            [105.23137503864251, -5.357644305219253],
+            [105.23144580764819, -5.357715990438365],
+            [105.23140703854, -5.357753977473877],
+            [105.2313356541519, -5.35767984148238]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "IxmQ7lpe55HegLO1Yvu94K2s9MIlEsXc",
+      "type": "Feature",
+      "properties": {
+        "id": "IxmQ7lpe55HegLO1Yvu94K2s9MIlEsXc",
+        "nama": "Gedung Penyimpanan Alat Proyek",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23123023880049, -5.357517475482908],
+            [105.23116414057654, -5.357579563772617],
+            [105.23128934707216, -5.357707324255713],
+            [105.23135724512036, -5.357640963231319],
+            [105.23123023880049, -5.357517475482908]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "g81GdeSEo5vY2KVICIga6t9HLqSIbLMQ",
+      "type": "Feature",
+      "properties": {
+        "id": "g81GdeSEo5vY2KVICIga6t9HLqSIbLMQ",
+        "nama": "Shelter 3",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22900907231849, -5.3527147256397],
+            [105.22904452845302, -5.352705573393592],
+            [105.22906772814696, -5.352775740612174],
+            [105.22911412753365, -5.352765716723567],
+            [105.22912901035636, -5.352826731690939],
+            [105.22904496618423, -5.352849394392166],
+            [105.22900907231849, -5.3527147256397]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "hlXK2wTBw2rKOAvJj1WtPeSN6IwXlflH",
+      "type": "Feature",
+      "properties": {
+        "id": "hlXK2wTBw2rKOAvJj1WtPeSN6IwXlflH",
+        "nama": "Kandang Ayam Peternak 1",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22917299095883, -5.353150712250695],
+            [105.22918554453139, -5.353302086840884],
+            [105.22927062985502, -5.353296531810358],
+            [105.22926016854387, -5.353140990945377],
+            [105.22917299095883, -5.353150712250695]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "2hS6r5nUKBskQA4nwMv4WsGY4FK8YQxH",
+      "type": "Feature",
+      "properties": {
+        "id": "2hS6r5nUKBskQA4nwMv4WsGY4FK8YQxH",
+        "nama": "Kandang Ayam Peternak 2",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2292692350141, -5.3531396021869],
+            [105.2293452538675, -5.35313543591343],
+            [105.22935989970142, -5.353282644234952],
+            [105.22927969632315, -5.353285421750272],
+            [105.2292692350141, -5.3531396021869]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "IC6H6P2rBaWYl41jaIXsa31ZDYZa2v3X",
+      "type": "Feature",
+      "properties": {
+        "id": "IC6H6P2rBaWYl41jaIXsa31ZDYZa2v3X",
+        "nama": "Gedung Nusa Indah",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23378595109034, -5.357710444234414],
+            [105.23382361116057, -5.357800433521035],
+            [105.23387633525891, -5.357778873589197],
+            [105.23387539375597, -5.357797621356426],
+            [105.23394412338376, -5.357798558744335],
+            [105.23394318188241, -5.357780748365954],
+            [105.23399402297639, -5.3578107447930705],
+            [105.23404392256913, -5.357724505061853],
+            [105.23395259690074, -5.357667324363575],
+            [105.23395165539773, -5.3576176427690285],
+            [105.23387162774895, -5.357616705380039],
+            [105.23387256925184, -5.357662637420503],
+            [105.23378595109034, -5.357710444234414]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "fE9SVyvTnjAoxzzWEjLnVwJHai3z74yv",
+      "type": "Feature",
+      "properties": {
+        "id": "fE9SVyvTnjAoxzzWEjLnVwJHai3z74yv",
+        "nama": "Gedung PPA",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23123025989179, -5.356069452669004],
+            [105.23125428264166, -5.356097050202138],
+            [105.23118406229509, -5.356155005019545],
+            [105.23128015329621, -5.3562653951304355],
+            [105.23153239217635, -5.356041855133213],
+            [105.23143907302989, -5.35593882432606],
+            [105.23136700477863, -5.356002298665231],
+            [105.23134205807565, -5.3559728612911925],
+            [105.23123025989179, -5.356069452669004]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "QYZCXMUpsUhcvrl8M6CIz81EenpIH9NB",
+      "type": "Feature",
+      "properties": {
+        "id": "QYZCXMUpsUhcvrl8M6CIz81EenpIH9NB",
+        "nama": "Poli Petcare",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23091717975842, -5.3566303989511965],
+            [105.2309159354391, -5.356704112650704],
+            [105.23099246110877, -5.356704732093277],
+            [105.23099308326846, -5.3566303989511965],
+            [105.23091717975842, -5.3566303989511965]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "pvH3wkH0MFN1ztWkBtQXJBPqtmV8MnjK",
+      "type": "Feature",
+      "properties": {
+        "id": "pvH3wkH0MFN1ztWkBtQXJBPqtmV8MnjK",
+        "nama": "Laboratorium Perikanan",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23146817524054, -5.357419008194398],
+            [105.23171527250656, -5.357422148847391],
+            [105.23171632398385, -5.357510087138252],
+            [105.23146607228409, -5.35750799336958],
+            [105.23146817524054, -5.357419008194398]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "mBr2MUZxdC48rVmDnPpQfLxKu0QBlkDC",
+      "type": "Feature",
+      "properties": {
+        "id": "mBr2MUZxdC48rVmDnPpQfLxKu0QBlkDC",
+        "nama": "Laboratorium Perikanan 2",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23084673479752, -5.357754676803495],
+            [105.2307724214213, -5.357826423424413],
+            [105.23093343373716, -5.357987853290965],
+            [105.23099986539296, -5.357914985647724],
+            [105.23084673479752, -5.357754676803495]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "Usg1xnCHELNxnNVyLP3GglZHHJ4ubmxm",
+      "type": "Feature",
+      "properties": {
+        "id": "Usg1xnCHELNxnNVyLP3GglZHHJ4ubmxm",
+        "nama": "Laboratorium Bengkel Kayu",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23117467452897, -5.357916165795203],
+            [105.23126733156113, -5.35801825821801],
+            [105.23145141019904, -5.357848514179835],
+            [105.23135628231353, -5.357747651757791],
+            [105.23117467452897, -5.357916165795203]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "NoAcWNAR9xj5d0cz1UgLbiV2PNPpPOHl",
+      "type": "Feature",
+      "properties": {
+        "id": "NoAcWNAR9xj5d0cz1UgLbiV2PNPpPOHl",
+        "nama": "Laboratorium Logam dan Automotif",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23088505762593, -5.35732584528499],
+            [105.23075238174323, -5.357439562981369],
+            [105.23095081871583, -5.3576624036573435],
+            [105.2310788797871, -5.357540645359805],
+            [105.23088505762593, -5.35732584528499]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "odKJBou117bPGCQPZcf8w1wUz0bBpac9",
+      "type": "Feature",
+      "properties": {
+        "id": "odKJBou117bPGCQPZcf8w1wUz0bBpac9",
+        "nama": "Gedung F",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2309958379472, -5.356987800865269],
+            [105.23108963744386, -5.35707334877911],
+            [105.23089481423654, -5.357298399419946],
+            [105.23070860200193, -5.357126932272237],
+            [105.2307979408194, -5.357040127009924],
+            [105.23088189778082, -5.357116215573782],
+            [105.2309958379472, -5.356987800865269]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "lKh4n3jr52rmHXFr5FLeMj1WFKo6on65",
+      "type": "Feature",
+      "properties": {
+        "id": "lKh4n3jr52rmHXFr5FLeMj1WFKo6on65",
+        "nama": "Gudang Alat Mesin Pertanian",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22907174705921, -5.356520611002168],
+            [105.22914210889621, -5.356705755203933],
+            [105.22926674986604, -5.356659719353914],
+            [105.22919538285873, -5.356474575137398],
+            [105.22907174705921, -5.356520611002168]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "F954mN1tiEvutBzsmZjFSzdEqSIwk5ea",
+      "type": "Feature",
+      "properties": {
+        "id": "F954mN1tiEvutBzsmZjFSzdEqSIwk5ea",
+        "nama": "Gedung D",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2324324198334, -5.358295822326909],
+            [105.23262924262258, -5.358118116983476],
+            [105.23293486807177, -5.358141243024178],
+            [105.232922643054, -5.358261741853937],
+            [105.23268058769816, -5.358247135936537],
+            [105.23252899747581, -5.358395629415014],
+            [105.2324324198334, -5.358295822326909]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "59m4sL41JrTYUWmog6gViYq3Kh1MUtB4",
+      "type": "Feature",
+      "properties": {
+        "id": "59m4sL41JrTYUWmog6gViYq3Kh1MUtB4",
+        "nama": "Gedung Lembaga Pemeriksa Halal",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23373354109202, -5.358674213486921],
+            [105.23369501651024, -5.35878928211757],
+            [105.23378307269877, -5.358814487624485],
+            [105.233820616961, -5.358699906302704],
+            [105.23373354109202, -5.358674213486921]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "BPOiHXaTIHlT2yYwGtqqRCmS11aO8e6B",
+      "type": "Feature",
+      "properties": {
+        "id": "BPOiHXaTIHlT2yYwGtqqRCmS11aO8e6B",
+        "nama": "Gedung Asoka (Polinela Podcast)",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23370585556074, -5.358800064999727],
+            [105.23377657586633, -5.358821188362825],
+            [105.23373885836986, -5.35891976405054],
+            [105.23366931673564, -5.358898640689986],
+            [105.23370585556074, -5.358800064999727]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "J5xBWO656s77V5emNGCcSj6cl5ME662R",
+      "type": "Feature",
+      "properties": {
+        "id": "J5xBWO656s77V5emNGCcSj6cl5ME662R",
+        "nama": "Pojok Coffee",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23359126408019, -5.358891762831263],
+            [105.23372690384224, -5.358931919239566],
+            [105.23368500932531, -5.359051850436245],
+            [105.23354994654744, -5.359010736144498],
+            [105.23359126408019, -5.358891762831263]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "I9HvHEKf0ijG7mQB8QxVo2WNRRqNFCzW",
+      "type": "Feature",
+      "properties": {
+        "id": "I9HvHEKf0ijG7mQB8QxVo2WNRRqNFCzW",
+        "nama": "ATM",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23351344883764, -5.35900922142261],
+            [105.23357916171636, -5.359024487407808],
+            [105.2335559664657, -5.359114041453694],
+            [105.23348919389446, -5.359097608022111],
+            [105.23351344883764, -5.35900922142261]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "EdUrpKFNaLj24WXztsaOUTb2VEqQoa4Y",
+      "type": "Feature",
+      "properties": {
+        "id": "EdUrpKFNaLj24WXztsaOUTb2VEqQoa4Y",
+        "nama": "Gedung Sabutret",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2284832182703, -5.3558094740293996],
+            [105.22850457422294, -5.355922875185158],
+            [105.22866474387325, -5.355895706159444],
+            [105.22864576080536, -5.355779942474257],
+            [105.2284832182703, -5.3558094740293996]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "Qw84JaRvhdaKWJgvZkHyPM2uWBTyRX5s",
+      "type": "Feature",
+      "properties": {
+        "id": "Qw84JaRvhdaKWJgvZkHyPM2uWBTyRX5s",
+        "nama": "Gedung Pilot Plant",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22856513368373, -5.356226251911167],
+            [105.22869680369308, -5.3561968474057835],
+            [105.22876817622137, -5.356485991645258],
+            [105.2286254311648, -5.356512945762503],
+            [105.22856513368373, -5.356226251911167]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    
+    {
+      "id": "6vzF3rBQrYSGcb5GTtKlMJFDZcqqfh91",
+      "type": "Feature",
+      "properties": {
+        "id": "6vzF3rBQrYSGcb5GTtKlMJFDZcqqfh91",
+        "nama": "Kedai Kopi Kampus",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23518623612551, -5.358311301478793],
+            [105.2351080459652, -5.358366907535341],
+            [105.23515475696979, -5.358359830401909],
+            [105.23520451434331, -5.358330510845647],
+            [105.23518623612551, -5.358311301478793]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "3aPBNodCz90ZpE0scpKU4jqGPTKCErpx",
+      "type": "Feature",
+      "properties": {
+        "id": "3aPBNodCz90ZpE0scpKU4jqGPTKCErpx",
+        "nama": "Agri Corner",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23452833879054, -5.3577604875881235],
+            [105.23464913906696, -5.357802258876646],
+            [105.23465058577636, -5.357868516777671],
+            [105.2345355723399, -5.357871397555968],
+            [105.23452833879054, -5.3577604875881235]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "TODfBIkrzh56fQRXYMCqSTgFmTkKKg7A",
+      "type": "Feature",
+      "properties": {
+        "id": "TODfBIkrzh56fQRXYMCqSTgFmTkKKg7A",
+        "nama": "Seed Teaching Farm",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23020328245968, -5.355874858758199],
+            [105.23028051108088, -5.355846616016535],
+            [105.23036476141124, -5.356021541713403],
+            [105.23028873062435, -5.356055299298276],
+            [105.23020328245968, -5.355874858758199]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "5JpdHnKNsp8LvmlYmSoVSiozclTqxmJP",
+      "type": "Feature",
+      "properties": {
+        "id": "5JpdHnKNsp8LvmlYmSoVSiozclTqxmJP",
+        "nama": "STEFA Seed Teaching Farm",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22925122156818, -5.355682012910123],
+            [105.2296768344633, -5.355544189709406],
+            [105.22992683037376, -5.356249761871737],
+            [105.22945781430883, -5.356397901017132],
+            [105.22925122156818, -5.355682012910123]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "zHRjLkGE7KrlRqKBnQMTjtT5Yq8FfmxB",
+      "type": "Feature",
+      "properties": {
+        "id": "zHRjLkGE7KrlRqKBnQMTjtT5Yq8FfmxB",
+        "nama": "Rice Milling Unit",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22915536420214, -5.356722114047059],
+            [105.22929544211053, -5.356664440071171],
+            [105.22937022054214, -5.356853191245406],
+            [105.22923540872034, -5.356918205525105],
+            [105.22915536420214, -5.356722114047059]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "LJdNgnF9dF6jp2xvwjtTF3O5a5t9Cggn",
+      "type": "Feature",
+      "properties": {
+        "id": "LJdNgnF9dF6jp2xvwjtTF3O5a5t9Cggn",
+        "nama": "Polifeed Polinela",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22872602349861, -5.355543646097956],
+            [105.22873271373606, -5.355632661710445],
+            [105.22891730555381, -5.355626731008613],
+            [105.22892061548998, -5.355695371948357],
+            [105.22895555632397, -5.355695371948357],
+            [105.22895819336719, -5.355793829384524],
+            [105.22917211478608, -5.355787130012374],
+            [105.22915722305373, -5.355524302796454],
+            [105.22872602349861, -5.355543646097956]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "MAixEvfcWDzDnLxfhV949KYGpzcoOH0Y",
+      "type": "Feature",
+      "properties": {
+        "id": "MAixEvfcWDzDnLxfhV949KYGpzcoOH0Y",
+        "nama": "Rumah Pompa",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23012456552289, -5.355005931137825],
+            [105.2301766175359, -5.354984005245413],
+            [105.23021131887288, -5.355065064599984],
+            [105.23013067520293, -5.355098044490745],
+            [105.23011115753849, -5.355051082666378],
+            [105.23014043403577, -5.355039747053141],
+            [105.23012456552289, -5.355005931137825]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "ZYWje76AUgWzOLlGyRbhKbMIi0c9D9HM",
+      "type": "Feature",
+      "properties": {
+        "id": "ZYWje76AUgWzOLlGyRbhKbMIi0c9D9HM",
+        "nama": "Kantin GKB",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22869849961353, -5.355720277874582],
+            [105.2286845105532, -5.355619299941438],
+            [105.22855336311488, -5.355631486934982],
+            [105.22854461995144, -5.355587961958804],
+            [105.2284344561022, -5.3555931849567315],
+            [105.22844873883048, -5.355750457980733],
+            [105.22869849961353, -5.355720277874582]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "lO5YE45lUXyHpOFIzkS5smO90ZACTpHx",
+      "type": "Feature",
+      "properties": {
+        "id": "lO5YE45lUXyHpOFIzkS5smO90ZACTpHx",
+        "nama": "Laboratorium Teknologi Rekayasa Kimia Industri",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22851323603021, -5.35600040430117],
+            [105.22853914044987, -5.356115292897201],
+            [105.228590949291, -5.356103569572809],
+            [105.22863922571071, -5.356117637562207],
+            [105.22867337244645, -5.356060193266686],
+            [105.22874284339298, -5.3560484699412285],
+            [105.22872400381436, -5.355955855655324],
+            [105.22851323603021, -5.35600040430117]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "NyyPAhErODL55WQEyPafMKpXAGg5NXJi",
+      "type": "Feature",
+      "properties": {
+        "id": "NyyPAhErODL55WQEyPafMKpXAGg5NXJi",
+        "nama": "Gedung Kuliah Bersama (GKB)",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22848643404433, -5.354932689031401],
+            [105.22873323793976, -5.354915539121478],
+            [105.22876293372673, -5.355391907050048],
+            [105.22851797648269, -5.355416310814164],
+            [105.22848643404433, -5.354932689031401]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "1bezjQcg3HB8knNv7MXN1ETGDUsROMqi",
+      "type": "Feature",
+      "properties": {
+        "id": "1bezjQcg3HB8knNv7MXN1ETGDUsROMqi",
+        "nama": "Gedung Smart Food Security",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22830115259347, -5.354384625459176],
+            [105.22835533602711, -5.354693921557569],
+            [105.22889717035673, -5.354618395781273],
+            [105.22884659915354, -5.354316292577792],
+            [105.22830115259347, -5.354384625459176]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "vh6ARq7cmcj3YRe1IZgkfNAp2IZPR9UL",
+      "type": "Feature",
+      "properties": {
+        "id": "vh6ARq7cmcj3YRe1IZgkfNAp2IZPR9UL",
+        "nama": "SMAGRI",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22729333309303, -5.350707926724553],
+            [105.22733732527047, -5.350686938993334],
+            [105.22734133769711, -5.350693711025642],
+            [105.22738220566634, -5.350674562841817],
+            [105.22740664631363, -5.350719241935224],
+            [105.22731970171458, -5.35076033074283],
+            [105.22731042646717, -5.3507652771994],
+            [105.22729013277922, -5.350722986283273],
+            [105.22729889673269, -5.3507186234003115],
+            [105.22729333309303, -5.350707926724553]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "OgXNr0QT4hTy4OfYcnL02068vZbYNrlR",
+      "type": "Feature",
+      "properties": {
+        "id": "OgXNr0QT4hTy4OfYcnL02068vZbYNrlR",
+        "nama": "Gedung A (Gedung Direktorat)",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23267596636009, -5.358777971579997],
+            [105.23277822454594, -5.358676160313948],
+            [105.23290074142864, -5.358804865118614],
+            [105.23279462444339, -5.358908597329972],
+            [105.23267596636009, -5.358777971579997]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "0AAj2mcTemm1d4G1hwsVvUPNzdWGOMvF",
+      "type": "Feature",
+      "properties": {
+        "id": "0AAj2mcTemm1d4G1hwsVvUPNzdWGOMvF",
+        "nama": "Gedung A (Administrasi)",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2328276760104, -5.358678519990363],
+            [105.23292735456249, -5.358784851676361],
+            [105.23302792309988, -5.358684722672919],
+            [105.23324418995747, -5.358697128037861],
+            [105.23324863989245, -5.358563327311813],
+            [105.23296473401882, -5.358551808042918],
+            [105.2328276760104, -5.358678519990363]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "QNqHiAjgZHb4J032nEB7RO8LVgqUAN0A",
+      "type": "Feature",
+      "properties": {
+        "id": "QNqHiAjgZHb4J032nEB7RO8LVgqUAN0A",
+        "nama": "Gedung B",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23297064412242, -5.358189469881623],
+            [105.23295439299909, -5.3584941952455125],
+            [105.23307221364144, -5.358496891929448],
+            [105.2330857562431, -5.358194863252223],
+            [105.23297064412242, -5.358189469881623]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "eQCn4HmQFIb2G4AnTOQZaebwKQGL7j3I",
+      "type": "Feature",
+      "properties": {
+        "id": "eQCn4HmQFIb2G4AnTOQZaebwKQGL7j3I",
+        "nama": "Gedung C",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23344875681886, -5.358055969410756],
+            [105.23344604829936, -5.358181365291344],
+            [105.23313863121837, -5.358161140151395],
+            [105.23310342045232, -5.3581881070041675],
+            [105.23302351909769, -5.358099116382817],
+            [105.23312102583537, -5.3580290025509925],
+            [105.23344875681886, -5.358055969410756]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "S9jsFjhH3LFOviNHB9cNSKcxmZC3oQCd",
+      "type": "Feature",
+      "properties": {
+        "id": "S9jsFjhH3LFOviNHB9cNSKcxmZC3oQCd",
+        "nama": "Pos Satpam",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23346785607765, -5.359121605913998],
+            [105.2335373717462, -5.359133949421462],
+            [105.23352940179717, -5.359186409321055],
+            [105.2334585578028, -5.35917274329816],
+            [105.23346785607765, -5.359121605913998]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "2ZV2J7KYewBWxh9nWolwxJ6OJXtuTBux",
+      "type": "Feature",
+      "properties": {
+        "id": "2ZV2J7KYewBWxh9nWolwxJ6OJXtuTBux",
+        "nama": "Laboratorium Kultur Jaringan",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23402270457098, -5.3584820139533065],
+            [105.23412068378019, -5.358490450766183],
+            [105.23411508961266, -5.358523250229666],
+            [105.23418967851592, -5.35853686510174],
+            [105.2341797333288, -5.358605558312306],
+            [105.2341039012777, -5.358593181157744],
+            [105.23409830711023, -5.358627837190028],
+            [105.23399512579363, -5.358612365747561],
+            [105.23402270457098, -5.3584820139533065]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "WPjppWDfaqfDq3w1CR6HW3OMkkangsPi",
+      "type": "Feature",
+      "properties": {
+        "id": "WPjppWDfaqfDq3w1CR6HW3OMkkangsPi",
+        "nama": "Laboratorium Pemasaran Agribisnis",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23449671807953, -5.3577406841036606],
+            [105.23449726426747, -5.357815728762176],
+            [105.23440277371776, -5.357815728762176],
+            [105.23440331990565, -5.357739052697681],
+            [105.23449671807953, -5.3577406841036606]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "JZvNeBQtcbIuwR9wPRyMYD1l8XfJuR6Q",
+      "type": "Feature",
+      "properties": {
+        "id": "JZvNeBQtcbIuwR9wPRyMYD1l8XfJuR6Q",
+        "nama": "Gedung Prodi D2",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23428248184439, -5.35774358778589],
+            [105.23428248184439, -5.357814207898542],
+            [105.23439422088927, -5.357815175296878],
+            [105.23439422088927, -5.357744071485968],
+            [105.23428248184439, -5.35774358778589]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "wUBFp2N0W15yPjSo3mreNNLa0on1u4Lb",
+      "type": "Feature",
+      "properties": {
+        "id": "wUBFp2N0W15yPjSo3mreNNLa0on1u4Lb",
+        "nama": "Fotocopy",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.234275823075, -5.3577435504509765],
+            [105.234275823075, -5.357813679508155],
+            [105.2342148930893, -5.357813249267323],
+            [105.23421618947293, -5.357743120211509],
+            [105.234275823075, -5.3577435504509765]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "93Tmwv64QMTHUr8rfhwERi5V8s9YMDeU",
+      "type": "Feature",
+      "properties": {
+        "id": "93Tmwv64QMTHUr8rfhwERi5V8s9YMDeU",
+        "nama": "Sekretariat UKMBS",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23416344720016, -5.357741215202694],
+            [105.2342109812326, -5.357741645442118],
+            [105.23420968484902, -5.357813065219133],
+            [105.23416171869059, -5.357812634978359],
+            [105.23416344720016, -5.357741215202694]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "dDajWRPXGgxifO9VGN7aTxvpgDFVDrWY",
+      "type": "Feature",
+      "properties": {
+        "id": "dDajWRPXGgxifO9VGN7aTxvpgDFVDrWY",
+        "nama": "Kantin",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.2340645401423, -5.357703602081571],
+            [105.23415812061421, -5.357703602081571],
+            [105.23415578110325, -5.357815408033829],
+            [105.2340627855072, -5.357813661066672],
+            [105.2340645401423, -5.357703602081571]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "TK2SRv3G0XZ13RH3f05BJ9YM7Qa1gIa8",
+      "type": "Feature",
+      "properties": {
+        "id": "TK2SRv3G0XZ13RH3f05BJ9YM7Qa1gIa8",
+        "nama": "Masjid Albana",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23354723106053, -5.3574208933555525],
+            [105.23349161946066, -5.357534269407822],
+            [105.23352447638598, -5.357554010243504],
+            [105.2334967973722, -5.357604973794707],
+            [105.23369777319073, -5.357711805672707],
+            [105.2338221056873, -5.357462531262087],
+            [105.23360936776027, -5.357363314641077],
+            [105.23357639763054, -5.357434310634659],
+            [105.23354723106053, -5.3574208933555525]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "2lWPqTr4TNRRwn5660f5hN9fMGjUT7J4",
+      "type": "Feature",
+      "properties": {
+        "id": "2lWPqTr4TNRRwn5660f5hN9fMGjUT7J4",
+        "nama": "Gedung Q",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23244820116628, -5.357353552996415],
+            [105.23256711717545, -5.357421208164155],
+            [105.23241649826167, -5.357614034402218],
+            [105.23204252459635, -5.357656916241993],
+            [105.23203727215764, -5.357512582232943],
+            [105.23233666118796, -5.357488526561539],
+            [105.23244820116628, -5.357353552996415]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "jGP3ofvRvVmbYdP0mi0krSypwR6a3dQE",
+      "type": "Feature",
+      "properties": {
+        "id": "jGP3ofvRvVmbYdP0mi0krSypwR6a3dQE",
+        "nama": "Klinik Polinela",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23301041724369, -5.357009959652814],
+            [105.23310027074729, -5.3570156098244865],
+            [105.23309364996237, -5.35710601256271],
+            [105.23300285063272, -5.357100362391904],
+            [105.23301041724369, -5.357009959652814]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "j4wx4PgQSlMWeU2scRweQDm6hgA8g0iK",
+      "type": "Feature",
+      "properties": {
+        "id": "j4wx4PgQSlMWeU2scRweQDm6hgA8g0iK",
+        "nama": "Unit Kearsipan",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23295532103214, -5.356604935102794],
+            [105.23295414001552, -5.356748389947867],
+            [105.23309350003075, -5.356751917525159],
+            [105.23308995697903, -5.356607286821841],
+            [105.23295532103214, -5.356604935102794]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "AThbhKvYMghSeNE4GgqXgg4NZlFHamEr",
+      "type": "Feature",
+      "properties": {
+        "id": "AThbhKvYMghSeNE4GgqXgg4NZlFHamEr",
+        "nama": "Laboratorium Jalan dan Jembatan",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22759651208798, -5.351052265047386],
+            [105.22776307538578, -5.350982565260026],
+            [105.22787532456505, -5.351225312759041],
+            [105.22769910542365, -5.35129741595766],
+            [105.22759651208798, -5.351052265047386]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "UA9TDTtz8GCHpSWL5Y9kCVkuPeFJ871k",
+      "type": "Feature",
+      "properties": {
+        "id": "UA9TDTtz8GCHpSWL5Y9kCVkuPeFJ871k",
+        "nama": "Pusat Unggulan Teknologi Perternakan",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22901087970797, -5.352889236593143],
+            [105.22938984888702, -5.352758473454827],
+            [105.22945100528887, -5.352969091930959],
+            [105.22906602072578, -5.353093865878719],
+            [105.22901087970797, -5.352889236593143]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "XAkrURlDkSicpGP4ybQWm30mtzfF6a7Q",
+      "type": "Feature",
+      "properties": {
+        "id": "XAkrURlDkSicpGP4ybQWm30mtzfF6a7Q",
+        "nama": "Teaching Farm Polibronic",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22906424546022, -5.353134149946769],
+            [105.22915005054301, -5.3531278797922255],
+            [105.229167369001, -5.353311281783277],
+            [105.22907762790425, -5.353315984398421],
+            [105.22906424546022, -5.353134149946769]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "UvdzqFM2PHKOzg9VRvWWtTiB1SUlB3BZ",
+      "type": "Feature",
+      "properties": {
+        "id": "UvdzqFM2PHKOzg9VRvWWtTiB1SUlB3BZ",
+        "nama": "Tefa Bibit Kelapa Sawit",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22802133803407, -5.3517705264514035],
+            [105.22804163885002, -5.35185699026222],
+            [105.2282649478226, -5.351807582372047],
+            [105.22824351918388, -5.351725610180949],
+            [105.22802133803407, -5.3517705264514035]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "e8GWp5zIQdk5YSSLN1uuzUYmGGkrprwr",
+      "type": "Feature",
+      "properties": {
+        "id": "e8GWp5zIQdk5YSSLN1uuzUYmGGkrprwr",
+        "nama": "Kandang Kambing",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.22811503263961, -5.351386110261416],
+            [105.22812049223597, -5.351433473959304],
+            [105.22823713115991, -5.351428753205866],
+            [105.22823203065371, -5.351380216255336],
+            [105.22817122542673, -5.3513823978697275],
+            [105.22811503263961, -5.351386110261416]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "fUgPRTlzBJqh5Mz57w3IphsHswNZYCc7",
+      "type": "Feature",
+      "properties": {
+        "id": "fUgPRTlzBJqh5Mz57w3IphsHswNZYCc7",
+        "nama": "Laboratorium Perjalanan Wisata",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23574201616361, -5.358166616371236],
+            [105.2358149591762, -5.358223598496451],
+            [105.23572181655987, -5.358332534898139],
+            [105.23564775134741, -5.358264938466888],
+            [105.23574201616361, -5.358166616371236]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "id": "ci8Anbqsh5xH3WIfn07EWdzjhfPtT7NG",
+      "type": "Feature",
+      "properties": {
+        "id": "ci8Anbqsh5xH3WIfn07EWdzjhfPtT7NG",
+        "nama": "Sekretariat UKM dan HMJ",
+        "tipe": "gedung"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [105.23311151522864, -5.356680100736568],
+            [105.23330830223773, -5.3569248713303494],
+            [105.23336892137758, -5.356877815368037],
+            [105.23316908477597, -5.356637423067241],
+            [105.23311151522864, -5.356680100736568]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}

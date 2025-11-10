@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung Direktorat",
+        "modul": "Administrasi & Rektorat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [105.2329, -5.3578],
+            [105.2332, -5.3578],
+            [105.2332, -5.3580],
+            [105.2329, -5.3580],
+            [105.2329, -5.3578]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung A",
+        "modul": "Perkuliahan & Ruang Dosen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [105.2325, -5.3581],
+            [105.2329, -5.3581],
+            [105.2329, -5.3583],
+            [105.2325, -5.3583],
+            [105.2325, -5.3581]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung B",
+        "modul": "Laboratorium Komputer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [105.2331, -5.3581],
+            [105.2334, -5.3581],
+            [105.2334, -5.3583],
+            [105.2331, -5.3583],
+            [105.2331, -5.3581]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perpustakaan Polinela",
+        "modul": "Layanan Pustaka & Referensi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [105.2330, -5.3584],
+            [105.2333, -5.3584],
+            [105.2333, -5.3586],
+            [105.2330, -5.3586],
+            [105.2330, -5.3584]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung Pertanian",
+        "modul": "Fakultas Pertanian & Praktikum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [105.2326, -5.3585],
+            [105.2329, -5.3585],
+            [105.2329, -5.3587],
+            [105.2326, -5.3587],
+            [105.2326, -5.3585]
+          ]
+        ]
+      }
+    }
+  ]
+}

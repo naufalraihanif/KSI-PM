@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Test Gedung", "modul": "Coba Polygon" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [105.2330, -5.3580],
+            [105.2335, -5.3580],
+            [105.2335, -5.3583],
+            [105.2330, -5.3583],
+            [105.2330, -5.3580]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+'use strict';
+
+/**
+ * gedung controller
+ */
+
+const { createCoreController } = require('@strapi/strapi').factories;
+
+module.exports = createCoreController('api::gedung.gedung', ({ strapi }) => ({
+  /**
+   * Memperluas (extend) aksi 'update' default, bukan menggantinya.
+   */
+  async update(ctx) {
+    const { id } = ctx.params;
+    const user = ctx.state.user;
+
+    // Keamanan dasar: pastikan pengguna sudah login
+    if (!user) {
+      return ctx.unauthorized('Anda harus login untuk melakukan aksi ini.');
+    }
+
+    // Log di terminal server Strapi untuk debugging
+    console.log(`Pengguna (ID: ${user.id}) sedang mencoba memperbarui Gedung (ID: ${id})`);
+    console.log("Menjalankan fungsi update default dari Strapi...");
+
+    // Memanggil fungsi 'update' asli dari core controller Strapi
+    // Fungsi 'super.update(ctx)' ini sudah menangani 'Draft & Publish' dengan benar.
+    const response = await super.update(ctx);
+
+    console.log("Fungsi update default berhasil dijalankan.");
+
+    // Anda bisa menambahkan logika tambahan di sini jika perlu
+
+    return response;
+  }
+}));

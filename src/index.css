@@ -1,0 +1,24 @@
+/* Reset default browser styles */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f0f2f5;
+}
+
+/* Container utama aplikasi dengan Flexbox */
+.app-container {
+  display: flex;
+  flex-direction: column; /* Mengatur item secara vertikal (Navbar di atas, Peta di bawah) */
+  height: 100vh;
+}
+
+/* Penampung Peta */
+.map-container {
+  flex-grow: 1; /* Membuat peta mengisi SEMUA sisa ruang yang tersedia */
+  position: relative; /* Diperlukan agar kontrol Mapbox tetap berfungsi */
+  width: 100%;
+}
